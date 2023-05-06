@@ -1,0 +1,11 @@
+D:\个人\Study\AutoScore\AutoScore\bin\Debug\AutoScore.exe.config
+D:\个人\Study\AutoScore\AutoScore\bin\Debug\AutoScore.exe
+D:\个人\Study\AutoScore\AutoScore\bin\Debug\AutoScore.pdb
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.csproj.AssemblyReference.cache
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.csproj.SuggestedBindingRedirects.cache
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.Form1.resources
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.Properties.Resources.resources
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.csproj.GenerateResource.cache
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.csproj.CoreCompileInputs.cache
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.exe
+D:\个人\Study\AutoScore\AutoScore\obj\Debug\AutoScore.pdb
